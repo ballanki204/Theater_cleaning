@@ -172,7 +172,7 @@ const LandingPage = () => {
             <div className="relative">
               <div className="aspect-square rounded-lg bg-gradient-to-br from-accent/20 to-accent/5 p-1 flex items-center justify-center border border-accent/5">
                 <img
-                  src="./public/theater.jpg"
+                  src="/theater.jpg"
                   alt="Theater"
                   className="fill-current"
                 />
